@@ -31,6 +31,8 @@ return {
         "pyright",
         "docker-compose-language-service",
         "dockerfile-language-server",
+        "prettierd",
+        "markdownlint",
       },
     },
   },
